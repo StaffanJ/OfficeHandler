@@ -13,3 +13,9 @@ C:\Users\Staffan\Source\Repos\OfficeHandler\Employee\obj\Debug\Employee.csprojAs
 C:\Users\Staffan\Source\Repos\OfficeHandler\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
 C:\Users\Staffan\Source\Repos\OfficeHandler\Employee\obj\Debug\Employee.dll
 C:\Users\Staffan\Source\Repos\OfficeHandler\Employee\obj\Debug\Employee.pdb
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\Employee\bin\Debug\Employee.dll
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\Employee\bin\Debug\Employee.pdb
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\Employee\obj\Debug\Employee.dll
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\Employee\obj\Debug\Employee.pdb

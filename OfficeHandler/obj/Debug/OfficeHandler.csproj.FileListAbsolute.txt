@@ -12,3 +12,17 @@ c:\users\staffan\Source\Repos\OfficeHandler\obj\Debug\OfficeHandler.csproj.CoreC
 c:\users\staffan\Source\Repos\OfficeHandler\obj\Debug\OfficeHandler.csproj.CopyComplete
 c:\users\staffan\Source\Repos\OfficeHandler\obj\Debug\OfficeHandler.exe
 c:\users\staffan\Source\Repos\OfficeHandler\obj\Debug\OfficeHandler.pdb
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\bin\Debug\OfficeHandler.exe.config
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\bin\Debug\OfficeHandler.exe
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\bin\Debug\OfficeHandler.pdb
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\bin\Debug\EmployeeMethods.dll
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\bin\Debug\Employee.dll
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\bin\Debug\EmployeeMethods.pdb
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\bin\Debug\Employee.pdb
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\obj\Debug\OfficeHandler.csprojAssemblyReference.cache
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\obj\Debug\OfficeHandler.csproj.CoreCompileInputs.cache
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\obj\Debug\OfficeHandler.csproj.CopyComplete
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\obj\Debug\OfficeHandler.exe
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\obj\Debug\OfficeHandler.pdb

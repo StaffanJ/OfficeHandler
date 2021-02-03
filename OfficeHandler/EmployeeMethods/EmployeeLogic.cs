@@ -345,7 +345,7 @@ namespace EmployeeMethods
         private static void WriteToFile(IList<Employees> employees)
         {
             //Writes to the file, using JsonConvert.SerializeObject, also indents the JSON file.
-            File.WriteAllText(@"Path\To\Your\Json\File", JsonConvert.SerializeObject(employees, Newtonsoft.Json.Formatting.Indented));
+            File.WriteAllText(@"C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\Files\data.json", JsonConvert.SerializeObject(employees, Newtonsoft.Json.Formatting.Indented));
         }
 
         /// <summary>

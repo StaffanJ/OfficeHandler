@@ -19,3 +19,13 @@ C:\Users\Staffan\Source\Repos\OfficeHandler\EmployeeMethods\obj\Debug\EmployeeMe
 C:\Users\Staffan\Source\Repos\OfficeHandler\EmployeeMethods\obj\Debug\EmployeeMethods.csproj.CopyComplete
 C:\Users\Staffan\Source\Repos\OfficeHandler\EmployeeMethods\obj\Debug\EmployeeMethods.dll
 C:\Users\Staffan\Source\Repos\OfficeHandler\EmployeeMethods\obj\Debug\EmployeeMethods.pdb
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\EmployeeMethods\bin\Debug\EmployeeMethods.dll
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\EmployeeMethods\bin\Debug\EmployeeMethods.pdb
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\EmployeeMethods\bin\Debug\Employee.dll
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\EmployeeMethods\bin\Debug\Employee.pdb
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\EmployeeMethods\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\EmployeeMethods\obj\Debug\EmployeeMethods.csprojAssemblyReference.cache
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\EmployeeMethods\obj\Debug\EmployeeMethods.csproj.CoreCompileInputs.cache
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\EmployeeMethods\obj\Debug\EmployeeMethods.csproj.CopyComplete
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\EmployeeMethods\obj\Debug\EmployeeMethods.dll
+C:\Users\Staffan Jansson\Documents\GitHub\OfficeHandler\OfficeHandler\EmployeeMethods\obj\Debug\EmployeeMethods.pdb

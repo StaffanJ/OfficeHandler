@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace Employee
 {
     [Author("S.Jansson")]
-    [Author("S.Jansson", Version = 2.0), Author("A.Benskiöld", Version = 3.0)]
+    [Author("S.Jansson", Version = 2.0)]
     public class Employees : Salary, IEmployee, ICitizen
     {
         // Read fields
